@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789034761161,
+  "timestamp": 1789034768119,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -176,7 +176,8 @@
     "charLifePlans": true,
     "coReadQuotes": true,
     "customCalendars": true,
-    "novelVolumes": true
+    "novelVolumes": true,
+    "avatarFrames": true
   },
   "source": "auto",
   "inProgress": true
