@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789494585887,
+  "timestamp": 1789494605623,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -100,8 +100,7 @@
     "roleStickers": 2,
     "tmStories": 6,
     "imageStore": 25,
-    "thinkingStore": 3,
-    "stickerStore": 9
+    "thinkingStore": 3
   },
   "completedTables": {
     "characters": true,
@@ -182,7 +181,8 @@
     "novelVolumes": true,
     "avatarFrames": true,
     "chatSettingsPresets": true,
-    "charBondSpaces": true
+    "charBondSpaces": true,
+    "stickerStore": true
   },
   "source": "auto",
   "inProgress": true
