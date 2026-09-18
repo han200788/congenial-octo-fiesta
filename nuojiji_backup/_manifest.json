@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789771055390,
+  "timestamp": 1789771062080,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -196,7 +196,8 @@
     "jiliCreators": true,
     "jiliPosts": true,
     "jiliDMs": true,
-    "shareLinkMeta": true
+    "shareLinkMeta": true,
+    "coReadTranslations": true
   },
   "source": "auto",
   "inProgress": true
